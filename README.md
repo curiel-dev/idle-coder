@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on K&R exercises and CS50 course.
 - 🌱 I’m currently learning Embedded Driver Development.
-- 👯 I’m looking to collaborate on C projects.
+- 🤝 I’m looking to collaborate on C projects.
 - 🤔 I’m looking for help with makefiles.
 - 💬 Ask me about C, microcontrollers, anime.
 - ⚡ Fun fact: I replaced my smartphone with a flip phone.
