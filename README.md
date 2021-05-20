@@ -46,9 +46,8 @@
 - Mini Habits
 
 ### Alter Egos 👥
-- Guitar player
-- Cyclist
-- Calisthenics athlete
+- Guitar Player
+- Fitness Enthusiast
 
 [twitter]: https://twitter.com/idle_coder
 [linkedin]: https://linkedin.com/in/idle-coder
